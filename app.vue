@@ -5,7 +5,7 @@
       <p class="subtitle">Il est actuellement en cours de refonte.</p>
 
       <div class="contact">
-        <p>Pour continuer de jouer avec nous :</p>
+        <p>Pour continuer à jouer avec nous :</p>
         <div class="contact-links">
           <a href="mailto:kreatim@adventuregroup.fr" class="contact-link">
             <Icon name="lucide:mail" class="icon" />
