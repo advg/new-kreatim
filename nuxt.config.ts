@@ -7,6 +7,8 @@ export default defineNuxtConfig({
     compatibilityVersion: 4,
   },
 
+  modules: ['@nuxt/icon'],
+
   app: {
     head: {
       htmlAttrs: {
